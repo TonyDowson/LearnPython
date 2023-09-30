@@ -1,4 +1,4 @@
-file = open('LGEN.L.csv','r')
+file = open('LGEN.L Prices.csv','r')
 print(file.readline())
 
 myDict = {}
